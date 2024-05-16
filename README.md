@@ -36,6 +36,6 @@ Python3.x ![Static Badge](https://img.shields.io/badge/python-3.x-blue)
 
 Please look up the following resources:<br>
     1. freecodecamp's course:- 12 Beginner Python Projects - Coding Course (by Kylie Ying)
-        - <https://www.youtube.com/watch?v=8ext9G7xspg&t=2s>
+        - <https://www.youtube.com/watch?v=8ext9G7xspg&t=2s> <br>
     2. How to Create a Hangman Game Using Python
         - <https://www.makeuseof.com/python-game-hangman-create/?utm_source=flipboard&utm_content=topic%2Fadventuregame>
