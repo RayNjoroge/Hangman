@@ -28,9 +28,9 @@ Python3.x ![Static Badge](https://img.shields.io/badge/python-3.x-blue)
 5. Upon running the script, the user is welcomed and prompted to either choose 'yes' to play <br>
     or 'no' to quit the dashboard.
 6. Guess the letters to form the word.
-7. One gets 7 chances to play.<br> If the player guesses the word correctly, one gets a congratulatory <br>
-    message and the actual word is shown. The player is then prompted to choose whether or not to play again.<br>
-    If the chances end before getting the word correctly, the game ends, the word is revealed, a hangman figure is <br> revealed and one gets a choice to play again.
+7. One gets 7 chances to play.<br> If the player guesses the word correctly, one gets a congratulatory
+    message and the actual word is shown.<br> The player is then prompted to choose whether or not to play again.<br>
+    If the chances end before getting the word correctly, the game ends, the word is revealed, a hangman figure is revealed and one gets a choice to play again.
 
 ## Credits
 
